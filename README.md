@@ -33,7 +33,7 @@ Implement RDT 3.0 protocol on UDP.(Homework for Computer Network, Fall 2018)
 
 
 - `T.txt` will be received and saved to  `D:\socket\Receiver\`; 
-- Run `CountErrors.cpp`  and enter theto count the error bits and get error rate.
+- Run `CountErrors.cpp` to count the error bits and get error rate.
 
 
 ### UDP with RDT3.0
